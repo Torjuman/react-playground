@@ -1,5 +1,7 @@
+import FirstWeb from "./components/first-web/FirstWeb";
+
 const App = () => {
-  return <h1>Hello World !</h1>;
+  return <FirstWeb />;
 };
 
 export default App;
